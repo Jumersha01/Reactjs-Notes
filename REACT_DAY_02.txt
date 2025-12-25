@@ -1,0 +1,57 @@
+Native  both apk web
+
+Features of  React 
+1. component based library
+- easy to build UI
+- easy to reuse
+- maintain
+- extend
+- faster in rendering
+- lightweight
+
+2. It uses JSX as language
+
+- JSX = JavascriptXML
+- u can write code in html
+let name="Tom";
+<p>{name} </p>
+
+- less code
+- improves performance of page
+
+
+3. It uses virtual DOM
+X- markup ->    <>
+
+converted
+markup->byte->char -> tokens -> .elements DOM -> layout -> render-> paint
+ 
+
+
+
+X- check instagram of Sir for job opportunities
+
+react uses virtualDOM & its copy of actual DOM
+
+
+
+4. React is modular
+
+it has module system
+take 100 functions but use only 2 
+
+we importin RCT what is necessary not load
+
+
+lazy loading ->load onlywhat is necessary 
+eager loading -> load all data
+
+5. It uses one way databinding
+6. 
+
+
+slider is caresoul
+caressoal is component
+
+Recording processin the batgrand
+right chick then record
